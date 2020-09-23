@@ -1,5 +1,12 @@
-- 요구사항분석명세서 - 양식에 맞게 화
-- SQL파일 - MySQL - 관리자 메뉴 - Data Export - 원하는 DB 선택 - 경로설정 - Include Create Schma 체크 ""
-- 코드 - 압축파일 && 깃허브주소 ""
-- PPT - 면접용(주제선정이유, 기능설명, 요구분석명세서 일부 캡처, ERD 캡처, SQL, 코드, M(vo)V(jsp)C(컨트롤러)) 수~금
-- ERD - ERD주소, ERD 캡처화면 ""
+- 요구사항분석명세서 - 양식에 맞게 (완료)
+- SQL파일 - MySQL - 관리자 메뉴 - Data Export - 원하는 DB 선택 - 경로설정 - Include Create Schma 체크 "" (완료)
+- 코드 - 압축파일 && 깃허브주소 "https://github.com/dksdlcks12" (완료)
+- PPT - 면접용
+(주제선정이유(요구사항 도출) (어떠한 점에서 필요성을 느껴 만들게 되었다), 
+기능설명 (A, B, C, 라는 요구사항에 의하여 A', B', C', 라는 기능을 만들게 되었다.),
+요구분석명세서 일부 캡처,
+ERD 캡처, 
+SQL (TABELE), 
+코드 (VO코드), 
+M(vo)V(jsp)C(컨트롤러)) 수~금
+- ERD - ERD주소 "https://www.erdcloud.com/d/SZoZrZy9Bm5AD8gpA", ERD 캡처화면 "" (완료)
