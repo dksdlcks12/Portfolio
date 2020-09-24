@@ -10,3 +10,6 @@ SQL (TABELE),
 코드 (VO코드), 
 M(vo)V(jsp)C(컨트롤러)) 수~금
 - ERD - ERD주소 "https://www.erdcloud.com/d/SZoZrZy9Bm5AD8gpA", ERD 캡처화면 "" (완료)
+
+https://github.com/dksdlcks12
+https://www.erdcloud.com/d/SZoZrZy9Bm5AD8gpA
